@@ -22,7 +22,7 @@ button {
     background-color: white;
     border: 1px solid blue;
     border-radius: 15px;
-    margin: 10px;
+    margin: 20px; /* Aumenta a margem dos botões */
     padding: 10px 20px;
     font-size: 16px;
 }
